@@ -2,7 +2,7 @@
 
 Tricks for Kirby CMS.
 
-It can be anything useful, but often tiny bits of code to help out with a small problem.
+It can be anything useful, but often tiny bits of code to help out with a small problem. A complement to the docs.
 
 ### Why this repo was created
 
@@ -13,3 +13,5 @@ To save myself some time I created this repo. Maybe someone else can find it use
 ### Code as issues
 
 The code is put as issues to make it go fast to add them.
+
+***Not much here yet, but you are welcome to fill it up if you have something to add***
