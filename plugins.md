@@ -2,8 +2,6 @@
 
 *Unofficial secrets for Kirby CMS*
 
-## Loaded plugins
-
 ### Get loaded plugins as array
 
 ```php
@@ -46,7 +44,7 @@ if( kirby()->plugin('modules') ) {
 
 **Be aware:** If the plugin exist, but has not been loaded it will force load it and return `true` if exists.
 
-## Force load plugins
+### Force load plugins
 
 The `$plugin_name` is the plugin folder name:
 
