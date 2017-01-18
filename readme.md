@@ -1,19 +1,16 @@
-# Kirby tricks
+# Kirby Secrets
 
-***Undocumented, unofficial secrets for Kirby CMS***
+*Unofficial secrets for Kirby CMS*
 
-It can be anything useful, but often tiny bits of code to help out with a small problem. A complement to the docs.
+### [Add a secret](issues/new)
 
-### Why this repo was created
+## Table of contents
 
-In some cases I search for something that I've used many times before, that are tricky to find again. It can be a forum question or something on Github.
-
-To save myself some time I created this repo. Maybe someone else can find it useful as well.
-
-### Code as issues
-
-The code is put as issues to make it go fast to add them.
+1. [Blueprints](blueprints.md)
+1. [Plugins](plugins.md)
+1. [Routes](routes.md)
+1. [Toolkit](toolkit.md)
 
 ### Disclaimer
 
-*All the code is used at your own risk. This is undocumented features, which means that it could all change in the next version without warning. This repository is not maintained by the Kirby crew.*
+All the code is used at your own risk. This is undocumented features, which means that it could all change in the next version without warning. This repository is not maintained by the Kirby crew.
