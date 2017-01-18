@@ -2,7 +2,7 @@
 
 *Unofficial secrets for Kirby CMS*
 
-### [Add a secret](issues/new)
+### [Add a secret](https://github.com/jenstornell/kirby-secrets/issues/new)
 
 ## Table of contents
 
