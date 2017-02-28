@@ -10,7 +10,7 @@
 
 **Cache**
 
-- [Partial cache](Partial-cache)
+- [Partial cache](https://github.com/jenstornell/kirby-secrets/wiki/Partial-cache)
 
 **Custom set**
 
