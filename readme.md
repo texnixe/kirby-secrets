@@ -30,18 +30,18 @@
 **Routes**
 
 - [Breaking a route](https://github.com/jenstornell/kirby-secrets/wiki/breaking-a-route)
-- [kirby(https://github.com/jenstornell/kirby-secrets/wiki/)->routes(https://github.com/jenstornell/kirby-secrets/wiki/)](https://github.com/jenstornell/kirby-secrets/wiki/kirby-routes)
+- [kirby()->routes()](https://github.com/jenstornell/kirby-secrets/wiki/kirby-routes)
 - [Match all](https://github.com/jenstornell/kirby-secrets/wiki/route-match-all)
 - [Route to error page](https://github.com/jenstornell/kirby-secrets/wiki/Route-error-page)
 
-**Snippets**
+**Snippets**ssssw
 
 - [Get all arguments](https://github.com/jenstornell/kirby-secrets/wiki/Get-all-snippet-arguments)
 
 **Misc**
 
 - [Image manipulation](https://github.com/jenstornell/kirby-secrets/wiki/image-manipulation)
-- [`str::replace(https://github.com/jenstornell/kirby-secrets/wiki/)` alternative](https://github.com/jenstornell/kirby-secrets/wiki/str-replace)
+- [`str::replace()` alternative](https://github.com/jenstornell/kirby-secrets/wiki/str-replace)
 - [Using global data](https://github.com/jenstornell/kirby-secrets/wiki/global-data)
 - [Use Kirby from the outside](https://github.com/jenstornell/kirby-secrets/wiki/Use-kirby-from-the-outside)
 - [Videos](https://github.com/jenstornell/kirby-secrets/wiki/videos)
