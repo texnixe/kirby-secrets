@@ -64,7 +64,6 @@
 - [Blueprint - Special characters](https://github.com/jenstornell/kirby-secrets/wiki/Blueprint-with-special-characters)
 - [Field defintion subfolders](https://github.com/jenstornell/kirby-secrets/wiki/Field-defintion-subfolders)
 - [Get all blueprints](https://github.com/jenstornell/kirby-secrets/wiki/get-blueprints)
-- [Modalsize](https://github.com/jenstornell/kirby-secrets/wiki/Modalsize)
 - [Pattern with not condition](https://github.com/jenstornell/kirby-secrets/wiki/Blueprint-pattern-with-not)
 
 **CSS**
