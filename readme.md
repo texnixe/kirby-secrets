@@ -8,11 +8,19 @@
 - [Collection rotator](https://github.com/jenstornell/kirby-secrets/wiki/collection-rotator)
 - [Is collection](https://github.com/jenstornell/kirby-secrets/wiki/is-collection)
 
+**Cache**
+
+- [Partial cache](Partial-cache)
+
 **Custom set**
 
 - [Custom folder setup](https://github.com/jenstornell/kirby-secrets/wiki/custom-folder-setup)
 - [Custom hooks](https://github.com/jenstornell/kirby-secrets/wiki/hooks)
 - [Custom registry set](https://github.com/jenstornell/kirby-secrets/wiki/extension-registry)
+
+**Images**
+
+- [Image manipulation](https://github.com/jenstornell/kirby-secrets/wiki/image-manipulation)
 
 **Page**
 
@@ -34,13 +42,13 @@
 - [Match all](https://github.com/jenstornell/kirby-secrets/wiki/route-match-all)
 - [Route to error page](https://github.com/jenstornell/kirby-secrets/wiki/Route-error-page)
 
-**Snippets**ssssw
+**Snippets**
 
 - [Get all arguments](https://github.com/jenstornell/kirby-secrets/wiki/Get-all-snippet-arguments)
+- [Snippet preview](https://github.com/jenstornell/kirby-secrets/wiki/Snippet-preview)
 
 **Misc**
 
-- [Image manipulation](https://github.com/jenstornell/kirby-secrets/wiki/image-manipulation)
 - [`str::replace()` alternative](https://github.com/jenstornell/kirby-secrets/wiki/str-replace)
 - [Using global data](https://github.com/jenstornell/kirby-secrets/wiki/global-data)
 - [Use Kirby from the outside](https://github.com/jenstornell/kirby-secrets/wiki/Use-kirby-from-the-outside)
@@ -61,13 +69,16 @@
 - [Style panel login form](https://github.com/jenstornell/kirby-secrets/wiki/Style-panel-login-form)
 - [Style panel search](https://github.com/jenstornell/kirby-secrets/wiki/Style-panel-search)
 
+**Fields**
+
+- [Use taken field keys](https://github.com/jenstornell/kirby-secrets/wiki/Use-already-taken-panel-field-keys)
+- [Field inheritance](https://github.com/jenstornell/kirby-secrets/wiki/Field-inheritance)
+- [Field routes](https://github.com/jenstornell/kirby-secrets/wiki/Field-routes)
+- [Fields object from another field](https://github.com/jenstornell/kirby-secrets/wiki/Get-fields-object-from-another-field)
+
 **Panel**
 
 - [Login automatically](https://github.com/jenstornell/kirby-secrets/wiki/panel-login-automatically)
 - [Panel root uri](https://github.com/jenstornell/kirby-secrets/wiki/panel-root-uri)
 - [Panel root url](https://github.com/jenstornell/kirby-secrets/wiki/panel-root-url)
-
-**Fields**
-
-- [Use taken field keys](https://github.com/jenstornell/kirby-secrets/wiki/Use-already-taken-panel-field-keys)
-- [Fields object from another field](https://github.com/jenstornell/kirby-secrets/wiki/Get-fields-object-from-another-field)
+- [Panel message](https://github.com/jenstornell/kirby-secrets/wiki/Panel-messages)
