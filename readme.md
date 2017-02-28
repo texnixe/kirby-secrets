@@ -1,6 +1,8 @@
 # Kirby Secrets
 
 *Unofficial secrets for Kirby CMS*
+
+[Changelog](changelog.md)
 ## Kirby
 
 **Collections**
@@ -21,6 +23,7 @@
 **Images**
 
 - [Image manipulation](https://github.com/jenstornell/kirby-secrets/wiki/image-manipulation)
+- [Image content url](https://github.com/jenstornell/kirby-secrets/wiki/Image-content-url)
 
 **Page**
 
@@ -59,8 +62,9 @@
 **Blueprints**
 
 - [Blueprint - Special characters](https://github.com/jenstornell/kirby-secrets/wiki/Blueprint-with-special-characters)
+- [Field defintion subfolders](https://github.com/jenstornell/kirby-secrets/wiki/Field-defintion-subfolders)
 - [Get all blueprints](https://github.com/jenstornell/kirby-secrets/wiki/get-blueprints)
-- [Readonly: true](https://github.com/jenstornell/kirby-secrets/wiki/readonly-true)
+- [Modalsize](https://github.com/jenstornell/kirby-secrets/wiki/Modalsize)
 - [Pattern with not condition](https://github.com/jenstornell/kirby-secrets/wiki/Blueprint-pattern-with-not)
 
 **CSS**
