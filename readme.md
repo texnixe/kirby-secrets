@@ -43,6 +43,7 @@
 - [Breaking a route](https://github.com/jenstornell/kirby-secrets/wiki/breaking-a-route)
 - [kirby()->routes()](https://github.com/jenstornell/kirby-secrets/wiki/kirby-routes)
 - [Match all](https://github.com/jenstornell/kirby-secrets/wiki/route-match-all)
+- [Panel routes](https://github.com/jenstornell/kirby-secrets/wiki/Panel-routes)
 - [Route to error page](https://github.com/jenstornell/kirby-secrets/wiki/Route-error-page)
 
 **Snippets**
@@ -85,3 +86,4 @@
 - [Panel root uri](https://github.com/jenstornell/kirby-secrets/wiki/panel-root-uri)
 - [Panel root url](https://github.com/jenstornell/kirby-secrets/wiki/panel-root-url)
 - [Panel message](https://github.com/jenstornell/kirby-secrets/wiki/Panel-messages)
+- [Panel routes](https://github.com/jenstornell/kirby-secrets/wiki/Panel-routes)
