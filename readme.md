@@ -88,6 +88,7 @@
 
 **Panel**
 
+- [Fingerprint](https://github.com/jenstornell/kirby-secrets/wiki/Fingerprint)
 - [Login automatically](https://github.com/jenstornell/kirby-secrets/wiki/panel-login-automatically)
 - [Panel root uri](https://github.com/jenstornell/kirby-secrets/wiki/panel-root-uri)
 - [Panel root url](https://github.com/jenstornell/kirby-secrets/wiki/panel-root-url)
