@@ -22,6 +22,7 @@
 
 **Htaccess**
 
+- [Browser cache](https://github.com/jenstornell/kirby-secrets/wiki/Htaccess-browser-cache)
 - [Gzip compression](https://github.com/jenstornell/kirby-secrets/wiki/Htaccess-gzip-compression)
 - [Redirect to https non www](https://github.com/jenstornell/kirby-secrets/wiki/Htaccess-redirect-to-https-non-www)
 
