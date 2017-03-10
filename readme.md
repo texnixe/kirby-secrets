@@ -20,6 +20,11 @@
 - [Custom hooks](https://github.com/jenstornell/kirby-secrets/wiki/hooks)
 - [Custom registry set](https://github.com/jenstornell/kirby-secrets/wiki/extension-registry)
 
+**Htaccess**
+
+- [Gzip compression](https://github.com/jenstornell/kirby-secrets/wiki/Htaccess-gzip-compression)
+- [Redirect to https non www](https://github.com/jenstornell/kirby-secrets/wiki/Htaccess-redirect-to-https-non-www)
+
 **Images**
 
 - [Image manipulation](https://github.com/jenstornell/kirby-secrets/wiki/image-manipulation)
