@@ -9,6 +9,7 @@ Github is not very good at showing wiki updates so here is a changelog:
 - [Htaccess redirect to https non www](https://github.com/jenstornell/kirby-secrets/wiki/Htaccess-redirect-to-https-non-www)
 - [Panel fingerprint](https://github.com/jenstornell/kirby-secrets/wiki/Fingerprint)
 - [Boiler readme](https://github.com/jenstornell/kirby-secrets/wiki/Boiler-readme)
+- [Site methods](https://github.com/jenstornell/kirby-secrets/wiki/Site-methods)
 
 **2017-03-08**
 
