@@ -5,7 +5,7 @@
 [Changelog](changelog.md)
 ## Kirby
 
-**Collections**
+**Collection**
 
 - [Collection rotator](https://github.com/jenstornell/kirby-secrets/wiki/collection-rotator)
 - [Is collection](https://github.com/jenstornell/kirby-secrets/wiki/is-collection)
@@ -26,7 +26,7 @@
 - [Gzip compression](https://github.com/jenstornell/kirby-secrets/wiki/Htaccess-gzip-compression)
 - [Redirect to https non www](https://github.com/jenstornell/kirby-secrets/wiki/Htaccess-redirect-to-https-non-www)
 
-**Images**
+**Image**
 
 - [Image manipulation](https://github.com/jenstornell/kirby-secrets/wiki/image-manipulation)
 - [Image content url](https://github.com/jenstornell/kirby-secrets/wiki/Image-content-url)
@@ -37,14 +37,18 @@
 - [Has parents](https://github.com/jenstornell/kirby-secrets/wiki/Page-has-parents)
 - [Multilevel find page](https://github.com/jenstornell/kirby-secrets/wiki/Multilevel-find-page)
 
-**Plugins**
+**Plugin**
 
 - [Force load plugin](https://github.com/jenstornell/kirby-secrets/wiki/force-load-plugin)
 - [Get loaded plugins](https://github.com/jenstornell/kirby-secrets/wiki/get-loaded-plugins)
 - [Load plugin last](https://github.com/jenstornell/kirby-secrets/wiki/load-plugin-last)
 - [Plugin has loaded](https://github.com/jenstornell/kirby-secrets/wiki/plugin-has-loaded)
 
-**Routes**
+**Plugin creation**
+
+- [Boiler readme](https://github.com/jenstornell/kirby-secrets/wiki/Boiler-readme)
+
+**Route**
 
 - [Breaking a route](https://github.com/jenstornell/kirby-secrets/wiki/breaking-a-route)
 - [kirby()->routes()](https://github.com/jenstornell/kirby-secrets/wiki/kirby-routes)
@@ -52,7 +56,7 @@
 - [Panel routes](https://github.com/jenstornell/kirby-secrets/wiki/Panel-routes)
 - [Route to error page](https://github.com/jenstornell/kirby-secrets/wiki/Route-error-page)
 
-**Snippets**
+**Snippet**
 
 - [Get all arguments](https://github.com/jenstornell/kirby-secrets/wiki/Get-all-snippet-arguments)
 - [Snippet preview](https://github.com/jenstornell/kirby-secrets/wiki/Snippet-preview)
