@@ -19,6 +19,6 @@
 
 **2017-02-28**
 
-- Image content url
-- Field definition subfolders
+- [Image content url](https://github.com/jenstornell/kirby-secrets/wiki/Image-content-url)
+- [Field definition subfolders](https://github.com/jenstornell/kirby-secrets/wiki/Field-defintion-subfolders)
 - 20+ posts added. I lost track of them. It was before this changelog was created.
