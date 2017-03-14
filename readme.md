@@ -88,6 +88,7 @@
 
 - [Use taken field keys](https://github.com/jenstornell/kirby-secrets/wiki/Use-already-taken-panel-field-keys)
 - [Field inheritance](https://github.com/jenstornell/kirby-secrets/wiki/Field-inheritance)
+- [Field controllers](https://github.com/jenstornell/kirby-secrets/wiki/Field-controllers)
 - [Field routes](https://github.com/jenstornell/kirby-secrets/wiki/Field-routes)
 - [Fields object from another field](https://github.com/jenstornell/kirby-secrets/wiki/Get-fields-object-from-another-field)
 

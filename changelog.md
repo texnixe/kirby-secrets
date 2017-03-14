@@ -1,6 +1,8 @@
 # Changelog
 
-Github is not very good at showing wiki updates so here is a changelog:
+**2017-03-14**
+
+- [Field controllers](https://github.com/jenstornell/kirby-secrets/wiki/Field-controllers)
 
 **2017-03-10**
 
@@ -13,7 +15,7 @@ Github is not very good at showing wiki updates so here is a changelog:
 
 **2017-03-08**
 
-- Panel routes
+- [Panel routes](https://github.com/jenstornell/kirby-secrets/wiki/Panel-routes)
 
 **2017-02-28**
 
