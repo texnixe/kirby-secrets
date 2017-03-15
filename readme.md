@@ -46,7 +46,7 @@
 
 **Plugin creation**
 
-- [Boiler readme](https://github.com/jenstornell/kirby-secrets/wiki/Boiler-readme)
+- [Boiler readme - Preview](https://github.com/jenstornell/kirby-secrets/wiki/Boiler-readme)
 - [Boiler readme - Download](https://github.com/jenstornell/kirby-secrets/wiki/Boiler-readme.md)
 
 **Route**
