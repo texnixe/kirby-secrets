@@ -1,5 +1,9 @@
 # Changelog
 
+**2017-03-16**
+
+- [Page value manipulation](https://github.com/jenstornell/kirby-secrets/wiki/Page-value-manipulation)
+
 **2017-03-14**
 
 - [Field controllers](https://github.com/jenstornell/kirby-secrets/wiki/Field-controllers)

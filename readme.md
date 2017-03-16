@@ -35,6 +35,7 @@
 
 - [Get root parent](https://github.com/jenstornell/kirby-secrets/wiki/Get-root-parent)
 - [Has parents](https://github.com/jenstornell/kirby-secrets/wiki/Page-has-parents)
+- [Value manipulation](https://github.com/jenstornell/kirby-secrets/wiki/Page-value-manipulation)
 - [Multilevel find page](https://github.com/jenstornell/kirby-secrets/wiki/Multilevel-find-page)
 
 **Plugin**
