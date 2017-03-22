@@ -1,5 +1,9 @@
 # Changelog
 
+**2017-03-22**
+
+- [Plugin best practices](https://github.com/jenstornell/kirby-secrets/wiki/Plugin-best-practices)
+
 **2017-03-20**
 
 - [Global collection filter](https://github.com/jenstornell/kirby-secrets/wiki/Global-collection-filter)

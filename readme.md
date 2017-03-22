@@ -9,6 +9,7 @@
 
 - [Collection rotator](https://github.com/jenstornell/kirby-secrets/wiki/collection-rotator)
 - [Is collection](https://github.com/jenstornell/kirby-secrets/wiki/is-collection)
+- [Global collection filter](https://github.com/jenstornell/kirby-secrets/wiki/Global-collection-filter)
 
 **Cache**
 
@@ -49,6 +50,7 @@
 
 - [Boiler readme - Preview](https://github.com/jenstornell/kirby-secrets/wiki/Boiler-readme)
 - [Boiler readme - Download](https://github.com/jenstornell/kirby-secrets/wiki/Boiler-readme.md)
+- [Plugin best practices](https://github.com/jenstornell/kirby-secrets/wiki/Plugin-best-practices)
 
 **Route**
 
