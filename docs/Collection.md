@@ -1,4 +1,3 @@
-
 ## Is collection
 
 In the example below we check if the object is a collection.
