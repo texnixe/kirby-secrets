@@ -1,3 +1,5 @@
+# Panel 2 - Routes
+
 If you make plugins for the Panel you can use routes, but you can also use Panel routes, routes specially for the Panel.
 
 **Visit the url below**

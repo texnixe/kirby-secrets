@@ -1,3 +1,5 @@
+# Panel 2 - Messages
+
 There are `notify` which is a green message and `alert` which is a red error message. 
 
 ## Hooks

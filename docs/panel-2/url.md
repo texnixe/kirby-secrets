@@ -1,3 +1,5 @@
+# Panel 2 - Url
+
 ## Get panel root uri
 
 Not sure if it will work in all cases but it returns `panel` if not changed:

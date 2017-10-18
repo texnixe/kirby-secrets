@@ -1,3 +1,5 @@
+# Panel 2 - Blueprints
+
 ## Special characters
 
 To allow special characters like quotes, always wrap the whole block with quotes and then escape the quotes inside it with `\`.

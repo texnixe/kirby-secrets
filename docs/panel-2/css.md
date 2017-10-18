@@ -1,3 +1,5 @@
+# Panel 2 - CSS
+
 ## Multiple panel css
 
 Instead of using `c::set` it's also possible to use the registry to add the option. It's also possible to use multiple css files. To do that just add them as array instead of a string.

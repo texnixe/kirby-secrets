@@ -1,3 +1,5 @@
+# Panel 2 - Login automatically
+
 This solution could be added to the config.php. Replace `YOURUSERNAME` and `YOURPASSWORD`. When visiting your domain and `/autologin` you will be logged in with no questions asked.
 
 ***Be aware that this could be a very dangerous feature and should not be used on a live environment***
