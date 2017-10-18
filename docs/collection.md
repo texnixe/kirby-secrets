@@ -1,3 +1,5 @@
+# Collection
+
 ## Is collection
 
 In the example below we check if the object is a collection.
@@ -8,7 +10,7 @@ if(is_a($collection, 'Collection')) {
 }
 ```
 
-- [Forum - Check if the object is a page or collection](https://forum.getkirby.com/t/check-if-the-object-is-a-page-or-collection/6464)
+[Forum - Check if the object is a page or collection](https://forum.getkirby.com/t/check-if-the-object-is-a-page-or-collection/6464)
 
 ## Global collection filter
 
@@ -83,7 +85,7 @@ foreach($page->collectionRotator(4) as $child) {
 }
 ```
 
-- [Forum - Filter interval of pages](https://forum.getkirby.com/t/filter-interval-of-pages/5893)
+[Forum - Filter interval of pages](https://forum.getkirby.com/t/filter-interval-of-pages/5893)
 
 ## Sources
 
