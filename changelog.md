@@ -1,5 +1,14 @@
 # Changelog
 
+**2017-10-18**
+
+- Updated [Routing](Routing).
+
+**2017-10-17**
+
+- New structure to simplify the workflow with the wiki pages.
+- Added [Depencencies](Dependencies).
+
 **2017-03-22**
 
 - [Plugin best practices](https://github.com/jenstornell/kirby-secrets/wiki/Plugin-best-practices)
