@@ -1,3 +1,5 @@
+# Plugin development - Best practices
+
 These best practices are, like everything else in this repository, unofficial recommendations.
 
 ## Table of contents

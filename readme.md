@@ -38,7 +38,7 @@
 
 ## External resources
 
-- [Videos](docs/videos)
+- [Videos](docs/videos.md)
 
 ## Add a secret
 

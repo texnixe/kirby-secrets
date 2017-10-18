@@ -2,7 +2,7 @@
 
 There are `notify` which is a green message and `alert` which is a red error message. 
 
-## Hooks
+## With hooks
 
 If you are inside the Panel and want to trigger a message, you can do that inside a hook.
 

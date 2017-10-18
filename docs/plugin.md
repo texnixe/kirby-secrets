@@ -50,6 +50,6 @@ if( kirby()->plugin('modules') ) {
 
 ## Plugin creation
 
-- [Boiler readme - Preview](Plugin-readme)
-- [Boiler readme - Download](Plugin-readme.md)
-- [Plugin best practices](Plugin-best-practices)
+- [Boiler readme - Preview](plugin/readme.md)
+- [Boiler readme - Download](https://raw.githubusercontent.com/jenstornell/kirby-secrets/master/docs/plugin/readme.md)
+- [Plugin best practices](plugin/best-practices.md)
