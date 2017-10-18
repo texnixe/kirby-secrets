@@ -31,7 +31,7 @@
 - [CSS](docs/panel-2/css.md)
 - [Fields](docs/panel-2/fields.md)
 - [Fingerprint](docs/panel-2/fingerprint.md)
-- [Login automatically](docs/panel-2/panel-login-automatically.md)
+- [Login automatically](docs/panel-2/login-automatically.md)
 - [Panel message](docs/panel-2/messages.md)
 - [Panel routes](docs/panel-2/routes.md)
 - [Panel url](docs/panel-2/url.md)
