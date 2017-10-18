@@ -1,4 +1,4 @@
-# hooks
+# Hooks
 
 ## Custom hooks
 

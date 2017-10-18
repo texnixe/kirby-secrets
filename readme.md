@@ -1,6 +1,6 @@
 # Kirby Secrets
 
-*Unofficial documentation for Kirby CMS. This Wiki is NOT maintained by the Kirby crew.*
+*Unofficial documentation for Kirby CMS. It's is NOT maintained by the Kirby crew.*
 
 [Changelog](changelog.md)
 
