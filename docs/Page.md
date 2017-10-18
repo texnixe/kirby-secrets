@@ -1,4 +1,6 @@
-# Multilevel find
+# Page
+
+## Multilevel find
 
 Maybe we need to find something on an unknown level. In the case below we search by the slug:
 

@@ -1,3 +1,5 @@
+# Cache
+
 ## Partial cache
 
 ### Enable the cache

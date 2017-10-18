@@ -1,3 +1,5 @@
+# Snippet
+
 ## Get all snippet arguments
 
 We can send arguments to a snippet. We can also get all the arguments from inside the snippet.

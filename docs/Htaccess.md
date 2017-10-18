@@ -1,3 +1,5 @@
+# Htaccess
+
 ## Browser cache
 
 Using the browser cache is good for both speed and SEO (Search Engine Optimization). It will set an expire date on different types of files.

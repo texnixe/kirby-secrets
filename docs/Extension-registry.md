@@ -1,3 +1,5 @@
+# Extension registry
+
 ## Custom registry set
 
 Maybe you need a custom registry for your plugin.

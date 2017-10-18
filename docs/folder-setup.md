@@ -1,3 +1,5 @@
+# Folder setup
+
 A custom folder setup can be a perfect way to customize the urls for a plugin. Let's have a look at how it's done.
 
 **site.php** in root of your installation:

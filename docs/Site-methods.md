@@ -1,3 +1,5 @@
+# Site methods
+
 Site methods can be seen as global methods, attached to the `$site` object.
 
 **Place this code in a plugin:**

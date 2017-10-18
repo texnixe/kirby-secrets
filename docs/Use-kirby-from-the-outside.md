@@ -1,3 +1,5 @@
+# Use Kirby from the outside
+
 If you use this code, you will have access to all the Kirby function from outside of Kirby:
 
 ```php

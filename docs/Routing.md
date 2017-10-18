@@ -1,3 +1,5 @@
+# Routing
+
 ## kirby()->routes()
 
 For plugins it's quite common to use the syntax below.

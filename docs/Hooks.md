@@ -1,3 +1,5 @@
+# hooks
+
 ## Custom hooks
 
 Maybe a hook is missing or you need a custom one for your plugin. Let's have a look at how it's done.

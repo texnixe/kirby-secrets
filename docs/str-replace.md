@@ -1,3 +1,5 @@
+# strtr
+
 ## str::replace() alternative
 
 It's nice to be able to search replace with key/value pair. The toolkit does NOT provide such a function, but PHP does.

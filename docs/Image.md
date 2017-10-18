@@ -1,3 +1,5 @@
+# Image
+
 ## Image manipulation
 
 Kirby is based on [SimpleImage](https://github.com/claviska/SimpleImage). It means that you can use SimpleImage functions directly to make more advanced image manipulations than Kirby uses.

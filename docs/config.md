@@ -1,3 +1,5 @@
+# Config
+
 Sometimes you have data that should live in a global scope. You can use `$GLOBALS`, `define`, a singleton pattern, or with the [Kirby registry](https://getkirby.com/docs/developer-guide/plugins/registry). Let's have a look at how it's done.
 
 ## Set the global data
@@ -24,3 +26,7 @@ print_r($data);
 ```
 
 The nice thing about it is that you don't need to think of what scope you are in. The first time I used it was to get a set value inside a kirbytext tag.
+
+## Sources
+
+- [Developer guide - Extension registry](https://getkirby.com/docs/developer-guide/plugins/registry)

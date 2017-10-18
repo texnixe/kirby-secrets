@@ -1,3 +1,5 @@
+# Fingerprint
+
 This feature is to prevent users from being logged out. Add this code in your `config.php` but change the returned string to anything you want.
 
 ```php

@@ -1,3 +1,5 @@
+# Plugin
+
 ## Force load plugins
 
 The `$plugin_name` is the plugin folder name:

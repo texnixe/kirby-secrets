@@ -1,3 +1,5 @@
+# Videos
+
 ## Kirby Courses
 
 Instead of listing all the upcoming videos here is the channel:
