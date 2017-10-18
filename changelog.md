@@ -3,6 +3,8 @@
 **2017-10-18**
 
 - Updated [Routing](Routing).
+- Merged almost every text.
+- Moved from the Wiki to the original repository.
 
 **2017-10-17**
 

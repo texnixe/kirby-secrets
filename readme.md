@@ -2,8 +2,6 @@
 
 *Unofficial documentation for Kirby CMS. This Wiki is NOT maintained by the Kirby crew.*
 
-# [Go to the wiki](https://github.com/jenstornell/kirby-secrets/wiki)
-
 [Changelog](changelog.md)
 
 ## Kirby
