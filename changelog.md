@@ -2,6 +2,8 @@
 
 **2017-11-02**
 
+- [Hooks](docs/hooks.md) updated.
+- [Assets](docs/assets.md) added.
 - [Kirby and Vue](docs/vue.md) added.
 
 **2017-10-18**

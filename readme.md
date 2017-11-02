@@ -6,6 +6,7 @@
 
 ## Kirby
 
+- [Assets](docs/assets.md)
 - [Collection](docs/collection.md)
 - [Config](docs/config.md)
 - [Cache](docs/cache.md)
