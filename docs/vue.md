@@ -1,6 +1,6 @@
 # Kirby and Vue
 
-Vue is a js framework and if your site is not a js web app, you probably don't need it. You can [read all about Vue here](https://vuejs.org/).
+Vue is a js framework and if your site is not a js web app, you probably don't need it.
 
 ## Footer
 
