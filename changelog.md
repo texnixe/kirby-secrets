@@ -1,15 +1,19 @@
 # Changelog
 
+**2017-11-02**
+
+- [Kirby and Vue](docs/vue.md) added.
+
 **2017-10-18**
 
-- Updated [Routing](Routing).
+- Updated [Routing](docs/routing.md).
 - Merged almost every text.
 - Moved from the Wiki to the original repository.
 
 **2017-10-17**
 
 - New structure to simplify the workflow with the wiki pages.
-- Added [Depencencies](Dependencies).
+- Added [Depencencies](docs/dependencies.md).
 
 **2017-03-22**
 

@@ -15,6 +15,7 @@
 - [Hooks](docs/hooks.md)
 - [Htaccess](docs/htaccess.md)
 - [Image](docs/image.md)
+- [Kirby and Vue](docs/vue.md)
 - [Page](docs/page.md)
 - [Plugin](docs/plugin.md)
 - [Routing](docs/routing.md)
