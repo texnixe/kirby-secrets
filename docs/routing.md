@@ -66,6 +66,19 @@ kirby()->routes(array(
 'pattern' => '(?!assets)(.*)', // Match all except the assets folder
 ```
 
+#### Full example
+
+```php
+kirby()->routes(array(
+  array(
+    'pattern' => '(.+)',
+    'action' => function($uri) {
+      echo $uri;
+    }
+  )
+));
+```
+
 - [Github - #368 - Route with the pattern just `(:all)` does not match](https://github.com/getkirby/kirby/issues/368)
 - [Forum - Routes - Prevent nesting from hell](https://forum.getkirby.com/t/routes-prevent-nesting-from-hell/3304)
 - [Forum - Not condition in routes](https://forum.getkirby.com/t/not-condition-in-regex-in-routes/6335)
@@ -84,16 +97,3 @@ kirby()->routes(array(
 ```
 
  - [Forum - Enable plugins to override panel routes](https://forum.getkirby.com/t/enable-plugins-to-override-panel-routes/8820/4)
-
-### Full example
-
-```php
-kirby()->routes(array(
-  array(
-    'pattern' => '(.+)',
-    'action' => function($uri) {
-      echo $uri;
-    }
-  )
-));
-```
