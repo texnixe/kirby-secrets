@@ -34,6 +34,7 @@ return new Response(snippet('error-message', [], true), 'html', 404);
 
 - [Toolkit - Response object](https://getkirby.com/docs/toolkit/api#response)
 - [Forum - How to break a route](https://forum.getkirby.com/t/how-do-you-prefer-to-break-a-route/6518/1)
+- [Status codes](https://httpstatuses.com/)
 
 ### Visit examples
 
@@ -65,6 +66,25 @@ kirby()->routes(array(
 'pattern' => '(?!assets)(.*)', // Match all except the assets folder
 ```
 
+- [Github - #368 - Route with the pattern just `(:all)` does not match](https://github.com/getkirby/kirby/issues/368)
+- [Forum - Routes - Prevent nesting from hell](https://forum.getkirby.com/t/routes-prevent-nesting-from-hell/3304)
+- [Forum - Not condition in routes](https://forum.getkirby.com/t/not-condition-in-regex-in-routes/6335)
+
+### Built in patterns
+
+```php
+'(:num)'     => '(-?[0-9]+)',
+'(:alpha)'   => '([a-zA-Z]+)',
+'(:any)'     => '([a-zA-Z0-9\.\-_%=]+)',
+'(:all)'     => '(.*)',
+'/(:num?)'   => '(?:/([0-9]+)',
+'/(:alpha?)' => '(?:/([a-zA-Z]+)',
+'/(:any?)'   => '(?:/([a-zA-Z0-9\.\-_%=]+)',
+'/(:all?)'   => '(?:/(.*)',
+```
+
+ - [Forum - Enable plugins to override panel routes](https://forum.getkirby.com/t/enable-plugins-to-override-panel-routes/8820/4)
+
 ### Full example
 
 ```php
@@ -77,15 +97,3 @@ kirby()->routes(array(
   )
 ));
 ```
-
-## Sources
-
-- [Developer guide - Routing](https://getkirby.com/docs/developer-guide/advanced/routing) `c::set`
-- [Developer guide - Extension registry - Route](https://getkirby.com/docs/developer-guide/plugins/registry) `$kirby->set`
-- [Toolkit - Routing](https://getkirby.com/docs/developer-guide/toolkit/routing) `$router->register`
-- [Toolkit - Response object](https://getkirby.com/docs/toolkit/api#response)
-- [Github - #368 - Route with the pattern just `(:all)` does not match](https://github.com/getkirby/kirby/issues/368)
-- [Forum - How to break a route](https://forum.getkirby.com/t/how-do-you-prefer-to-break-a-route/6518/1)
-- [Forum - Routes - Prevent nesting from hell](https://forum.getkirby.com/t/routes-prevent-nesting-from-hell/3304)
-- [Forum - Not condition in routes](https://forum.getkirby.com/t/not-condition-in-regex-in-routes/6335)
-- [Status codes](https://httpstatuses.com/)
