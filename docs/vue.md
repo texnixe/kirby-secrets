@@ -1,10 +1,10 @@
 # Kirby and Vue
 
-Vue is a javascript framework and if your site is not an advanced javascript application, you probably don't need it. You can [read all about Vue here](https://vuejs.org/).
+Vue is a js framework and if your site is not an advanced js application, you probably don't need it. You can [read all about Vue here](https://vuejs.org/).
 
-## Header
+## Footer
 
-Here is a starting point which uses [Vue](https://vuejs.org/) and [Vue Router](https://router.vuejs.org/en/).
+Here is a starting point placed in the `footer.php`, which uses [Vue](https://vuejs.org/) and [Vue Router](https://router.vuejs.org/en/).
 
 ```html
 <script src="https://unpkg.com/vue@2.5.2/dist/vue.js"></script>
