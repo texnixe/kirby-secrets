@@ -16,7 +16,6 @@
 - [Hooks](docs/hooks.md)
 - [Htaccess](docs/htaccess.md)
 - [Image](docs/image.md)
-- [Kirby and Vue](docs/vue.md)
 - [Page](docs/page.md)
 - [Plugin](docs/plugin.md)
 - [Routing](docs/routing.md)
@@ -24,6 +23,11 @@
 - [Snippet](docs/snippet.md)
 - [`str::replace()` alternative](docs/str-replace.md)
 - [Use Kirby from the outside](docs/use-kirby-from-the-outside.md)
+
+<!--## Kirby - Third party frameworks
+
+- [Kirby and Vue](docs/vue.md)
+-->
 
 ## Panel 2
 
