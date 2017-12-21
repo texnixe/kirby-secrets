@@ -1,5 +1,9 @@
 # Changelog
 
+**2017-12-21**
+
+- [Thumb](docs/thumb.md) added.
+
 **2017-11-02**
 
 - [Hooks](docs/hooks.md) updated.
