@@ -22,6 +22,7 @@
 - [Site methods](docs/site-methods.md)
 - [Snippet](docs/snippet.md)
 - [`str::replace()` alternative](docs/str-replace.md)
+- [Thumb](docs/thumb.md)
 - [Use Kirby from the outside](docs/use-kirby-from-the-outside.md)
 
 <!--## Kirby - Third party frameworks
