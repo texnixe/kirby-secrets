@@ -86,6 +86,17 @@ RewriteCond %{HTTP_HOST} ^(?:www\.)?(.+)$ [NC]
 RewriteRule ^ https://%1%{REQUEST_URI} [R=301,L,NE]
 ```
 
+To not break the localhost environment it can be good to wrap it inside an if statement. It only works in Apache 2.4+
+
+```text
+<If "%{HTTP_HOST} != 'localhost'">
+RewriteCond %{HTTP_HOST} ^www\. [NC,OR]
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP_HOST} ^(?:www\.)?(.+)$ [NC]
+RewriteRule ^ https://%1%{REQUEST_URI} [R=301,L,NE]
+</If>
+```
+
 ### http to https
 
 https is good for both security and SEO (Search Engine Optimization). To be able to use it, you need a certificate like [Let's Encrypt](https://letsencrypt.org/) which is free of charge.
