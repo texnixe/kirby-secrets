@@ -80,6 +80,7 @@ This code will to two things:
 Place it directly after `RewriteEngine on`.
 
 ```text
+RewriteCond %{HTTP_HOST} !=localhost
 RewriteCond %{HTTP_HOST} ^www\. [NC,OR]
 RewriteCond %{HTTPS} off
 RewriteCond %{HTTP_HOST} ^(?:www\.)?(.+)$ [NC]
